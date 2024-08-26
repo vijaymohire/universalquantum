@@ -1,0 +1,3 @@
+QC differentiable program: to abstract libraries used for compilation or interpretation of QCircuit. In this we have generic graph nodes that can hold various QC elements and differentated
+across various target platforms or runtimes from different vendors. The source QCircuit can be abstracted and a set of generic or universal software gates can be used as placeholders that have 
+a good counterpart across different target QC platforms  
