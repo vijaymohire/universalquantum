@@ -1,0 +1,1 @@
+Use Open pulse, as analog signals control unit for quantum circuit gate operations. Digital and analog features, classical, quantum circuit features used that allow for optimal design of the distributed QC
